@@ -13,7 +13,7 @@ export default {
     }
 
     if (opts.connectManually) {
-      Vue.prototype.$connect = (connectionUrl=false) => {
+      Vue.prototype.$connect = (connectionUrl = false) => {
         if (connectionUrl) {
           connection = connectionUrl
         }
