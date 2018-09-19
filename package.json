@@ -1,5 +1,5 @@
 {
-  "name": "vue-native-websocket",
+  "name": "vue-native-websocket-dynamic-url",
   "version": "2.0.11",
   "description": "native websocket implemantation for vuejs and vuex",
   "main": "dist/build.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nathantsoi/vue-native-websocket.git"
+    "url": "git+https://github.com/thiagoabreudev/vue-native-websocket-dynamic-url.git"
   },
   "keywords": [
     "vuejs",

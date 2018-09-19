@@ -6,7 +6,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     filename: 'build.js',
-    library: ['VueNativeSock'],
+    library: ['VueNativeSockDynamicUrl'],
     libraryTarget: 'umd'
   },
   devtool: "source-map",
